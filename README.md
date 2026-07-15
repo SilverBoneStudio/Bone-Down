@@ -1,4 +1,4 @@
-# Bone-Down，短视频下载器
+# Bone-Down，短视频下载器（仅支持Windows）
 <img width="802" height="336" alt="image" src="https://github.com/user-attachments/assets/f6d173c6-6048-4488-8f06-d8b2aa9e0a97" />
 <br>·界面简洁
 <br>·无复杂操作
